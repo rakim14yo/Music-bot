@@ -28,7 +28,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODU1ODc4MjMyOTcyMTk3OTY5.YM44uA.Q5-p8otBFZwl4BtJ-YF0n7B-fuI',
+        token: 'ODU1ODc4MjMyOTcyMTk3OTY5.YM44uA.pn6tVNlQOJmh-zCgWUQQlD-NhY8',
         prefix: 'S.',
         activity: 'S.help and S.play',
     },
