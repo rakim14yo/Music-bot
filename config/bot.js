@@ -21,14 +21,14 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODU1ODc4MjMyOTcyMTk3OTY5.YM44uA.Jtt7kASxkQDI8gpgI6f_5cS6OeE',
+        token: 'ODU1ODc4MjMyOTcyMTk3OTY5.YM44uA.Q5-p8otBFZwl4BtJ-YF0n7B-fuI',
         queue: ':bar_chart:',
         music: ':musical_note:',
         success: ':white_check_mark:',
     },
 
     discord: {
-        token: 'ODU1ODc4MjMyOTcyMTk3OTY5.YM44uA.-YA7ltyw1oiDZSkPWZvRq4xD91o',
+        token: 'ODU1ODc4MjMyOTcyMTk3OTY5.YM44uA.Q5-p8otBFZwl4BtJ-YF0n7B-fuI',
         prefix: 'S.',
         activity: 'S.help and S.play',
     },
