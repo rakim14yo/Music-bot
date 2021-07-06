@@ -1,7 +1,27 @@
 module.exports = {
     emojis: {
         off: ':x:',
+        error: ':warninmodule.exports = {
+    emojis: {
+        off: ':x:',
         error: ':warning:',
+        queue: ':bar_chart:',
+        music: ':musical_note:',
+        success: ':white_check_mark:',
+    },
+
+    discord: {
+        token: 'ODU1module.exports = {
+    emojis: {
+        off: ':x:',
+        error: ':warning:',
+        queue: ':bar_chart:',
+        music: ':musical_note:',
+        success: ':white_check_mark:',
+    },
+
+    discord: {
+        token: 'ODU1ODc4MjMyOTcyMTk3OTY5.YM44uA.Jtt7kASxkQDI8gpgI6f_5cS6OeE',
         queue: ':bar_chart:',
         music: ':musical_note:',
         success: ':white_check_mark:',
